@@ -1,0 +1,7 @@
+{
+  "name": "compression-bug",
+  "dependencies": {
+    "express": "4.2.0",
+    "compression": "1.0.4"
+  }
+}
